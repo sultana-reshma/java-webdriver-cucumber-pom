@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edaa92a7-acdb-460a-995d-0824d21afc6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/TestContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/rest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/rest.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VadAzcVT76sK1tgkqji0ftjYmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: REST API Candidates CRUD">
+    <configuration name="Scenario: REST API Candidates CRUD" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/rest.feature" />
+      <option name="GLUE" value="support definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="java-webdriver-cucumber-pom" />
+      <option name="NAME_FILTER" value="^REST API Candidates CRUD$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^REST API Candidates CRUD$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: REST API Candidates CRUD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: REST API Positions CRUD" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/rest.feature" />
+      <option name="GLUE" value="support definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="java-webdriver-cucumber-pom" />
+      <option name="NAME_FILTER" value="^REST API Positions CRUD$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^REST API Positions CRUD$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: REST API Positions CRUD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Usps Stamps &amp; Boxes" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/usps.feature" />
+      <option name="GLUE" value="support definitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="java-webdriver-cucumber-pom" />
+      <option name="NAME_FILTER" value="^Usps Stamps \&amp; Boxes$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Usps Stamps \&amp; Boxes$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Usps Stamps &amp; Boxes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: REST API Candidates CRUD" />
+        <item itemvalue="Cucumber java.Scenario: REST API Positions CRUD" />
+        <item itemvalue="Cucumber java.Scenario: Usps Stamps &amp; Boxes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edaa92a7-acdb-460a-995d-0824d21afc6b" name="Default Changelist" comment="" />
+      <created>1577495000435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577495000435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578370466204">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713@0.23.1280.713" timestamp="1578370466204" />
+    <state x="446" y="286" key="Github.ShareDialog" timestamp="1578505040374">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="446" y="286" key="Github.ShareDialog/0.23.1280.716@0.23.1280.716" timestamp="1578505040374" />
+    <state width="1238" height="196" key="GridCell.Tab.0.bottom" timestamp="1578418266103">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1578418266103" />
+    <state width="1218" height="169" key="GridCell.Tab.0.bottom/0.23.1280.715/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577733862078" />
+    <state width="1218" height="211" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1577574407985" />
+    <state width="1218" height="211" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1577574035171" />
+    <state width="1412" height="207" key="GridCell.Tab.0.bottom/0.23.1280.777/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577735521098" />
+    <state width="1412" height="320" key="GridCell.Tab.0.bottom/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737506982" />
+    <state width="1238" height="196" key="GridCell.Tab.0.center" timestamp="1578418266100">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1578418266100" />
+    <state width="1218" height="169" key="GridCell.Tab.0.center/0.23.1280.715/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577733862077" />
+    <state width="1218" height="211" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1577574407984" />
+    <state width="1218" height="211" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1577574035167" />
+    <state width="1412" height="207" key="GridCell.Tab.0.center/0.23.1280.777/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577735521096" />
+    <state width="1412" height="320" key="GridCell.Tab.0.center/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737506980" />
+    <state width="1238" height="196" key="GridCell.Tab.0.left" timestamp="1578418266100">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1578418266100" />
+    <state width="1218" height="169" key="GridCell.Tab.0.left/0.23.1280.715/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577733862076" />
+    <state width="1218" height="211" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1577574407983" />
+    <state width="1218" height="211" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1577574035162" />
+    <state width="1412" height="207" key="GridCell.Tab.0.left/0.23.1280.777/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577735521095" />
+    <state width="1412" height="320" key="GridCell.Tab.0.left/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737506980" />
+    <state width="1238" height="196" key="GridCell.Tab.0.right" timestamp="1578418266101">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1578418266101" />
+    <state width="1218" height="169" key="GridCell.Tab.0.right/0.23.1280.715/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577733862077" />
+    <state width="1218" height="211" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1577574407984" />
+    <state width="1218" height="211" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1577574035171" />
+    <state width="1412" height="207" key="GridCell.Tab.0.right/0.23.1280.777/-386.-1057.1920.1057@-386.-1057.1920.1057" timestamp="1577735521097" />
+    <state width="1412" height="320" key="GridCell.Tab.0.right/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737506981" />
+    <state width="1238" height="196" key="GridCell.Tab.1.bottom" timestamp="1578418266108">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.1.bottom/0.23.1280.713@0.23.1280.713" timestamp="1578418266108" />
+    <state width="1218" height="211" key="GridCell.Tab.1.bottom/0.23.1280.715@0.23.1280.715" timestamp="1577574407986" />
+    <state width="1218" height="211" key="GridCell.Tab.1.bottom/0.23.1280.717@0.23.1280.717" timestamp="1577574034880" />
+    <state width="1218" height="211" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1577574039953" />
+    <state width="1412" height="320" key="GridCell.Tab.1.bottom/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737512171" />
+    <state width="1238" height="196" key="GridCell.Tab.1.center" timestamp="1578418266106">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.1.center/0.23.1280.713@0.23.1280.713" timestamp="1578418266106" />
+    <state width="1218" height="211" key="GridCell.Tab.1.center/0.23.1280.715@0.23.1280.715" timestamp="1577574407985" />
+    <state width="1218" height="211" key="GridCell.Tab.1.center/0.23.1280.717@0.23.1280.717" timestamp="1577574034877" />
+    <state width="1218" height="211" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1577574039952" />
+    <state width="1412" height="320" key="GridCell.Tab.1.center/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737512170" />
+    <state width="1238" height="196" key="GridCell.Tab.1.left" timestamp="1578418266105">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.1.left/0.23.1280.713@0.23.1280.713" timestamp="1578418266105" />
+    <state width="1218" height="211" key="GridCell.Tab.1.left/0.23.1280.715@0.23.1280.715" timestamp="1577574407985" />
+    <state width="1218" height="211" key="GridCell.Tab.1.left/0.23.1280.717@0.23.1280.717" timestamp="1577574034876" />
+    <state width="1218" height="211" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1577574039951" />
+    <state width="1412" height="320" key="GridCell.Tab.1.left/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737512170" />
+    <state width="1238" height="196" key="GridCell.Tab.1.right" timestamp="1578418266107">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1578418266107" />
+    <state width="1218" height="211" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1577574407986" />
+    <state width="1218" height="211" key="GridCell.Tab.1.right/0.23.1280.717@0.23.1280.717" timestamp="1577574034878" />
+    <state width="1218" height="211" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1577574039953" />
+    <state width="1412" height="320" key="GridCell.Tab.1.right/0.23.1280.777/-386.-1057.1920.989@-386.-1057.1920.989" timestamp="1577737512171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/support/RestWrapper.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/support/RestWrapper.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/support/RestWrapper.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/support/RestWrapper.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="result" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

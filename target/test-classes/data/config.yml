@@ -1,0 +1,6 @@
+browser: chrome
+isHeadless: false
+implicitTimeout: 10
+pageLoadTimeout: 60
+explicitTimeout: 10
+explicitLongTimeout: 30
